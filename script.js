@@ -1,5 +1,5 @@
 const baseLength = 5
-const clothesLength = 5
+const clothesLength = 36
 const eyesLength = 16
 const glassesLength = 12
 const hatLength = 30
